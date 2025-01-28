@@ -1,0 +1,20 @@
+[
+   {
+      "question": "$$ f(x,y) = \\frac{dy}{dx} = x + y $$ Solution of equation is as: <br> (x=0, y=1), (x=0.1, y=1.1103), (x=0.2, y=1.2428), (x=0.3, y=1.3997) <br> Find y(0.4)?",
+      "qid": 1,
+      "option_a": "2.8712",
+      "option_b": "1.5836",
+      "option_c": "2.9917",
+      "option_d": "0.2432",
+      "correct_option": "b"
+   },
+   {
+      "question": "$$ f(x,y) = \\frac{dy}{dx} = -0.2(y - 20) $$ Solution of equation is as: <br> (x=0, y=90), (x=1, y=77.27), (x=2, y=66.96), (x=3, y=58.45) <br> Find y(4)?",
+      "qid": 2,
+      "option_a": "51.4778",
+      "option_b": "50.4778",
+      "option_c": "53.3149",
+      "option_d": "49.2988",
+      "correct_option": "a"
+   }
+]
